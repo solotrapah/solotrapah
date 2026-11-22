@@ -1,16 +1,24 @@
-## Hi there 👋
+# solotrapah here 👋
 
-<!--
-**solotrapah/solotrapah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring memory safety, systems programming, and high-performance CLI tools. Based in Taiwan.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I do
+
+- reach me at **@solotrapah** on GitHub
+- reading docs more than books lately
+- currently deep in low-level systems
+- keeps notes about terminal tools that will never be published
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solotrapah&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=solotrapah&hide_border=true&theme=github" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/C-e3b341?style=for-the-badge&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/WebAssembly-e3b341?style=for-the-badge&logoColor=white" alt="WebAssembly" /> <img src="https://img.shields.io/badge/Linux-e3b341?style=for-the-badge&logoColor=white" alt="Linux" />
+
+> Make it work, make it right, make it fast.
+
+<img src="https://img.shields.io/github/followers/solotrapah?label=Followers&style=social" alt="Followers" /> <a href="https://github.com/solotrapah"><img src="https://img.shields.io/badge/GitHub-@solotrapah-e3b341?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>Reach me on GitHub — @solotrapah. Say hi if you like.</sub>
